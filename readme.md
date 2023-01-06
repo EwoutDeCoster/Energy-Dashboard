@@ -11,8 +11,8 @@ Voor dit project gebruikte ik een [Home Wizard P1 Meter](https://www.homewizard.
 
 * `Actief verbruik` : Toont het actief verbruik van je huis. Als je zonnepanelen hebt kan dit ook negatief gaan. In dit geval lever je energie terug aan het net.
 * `Fase 1` : Elektriciteit verbruik op fase 1.
-* `Fase 2` : Elektriciteit verbruik op fase 1.
-* `Fase 3` : Elektriciteit verbruik op fase 1. (In mijn geval met een Auto lader vandaar het icoontje)
+* `Fase 2` : Elektriciteit verbruik op fase 2.
+* `Fase 3` : Elektriciteit verbruik op fase 3. (In mijn geval is hier een auto lader op aangesloten. Daarom het oplader icoon.)
 
 **Gas**
 
