@@ -5,7 +5,7 @@ Voor dit project gebruikte ik een [Home Wizard P1 Meter](https://www.homewizard.
 
 ![1673008125936](image/readme/1673008125936.png)
 
-#### Functionaliteit
+### Functionaliteit
 
 **Elektriciteit**
 
@@ -18,6 +18,6 @@ Voor dit project gebruikte ik een [Home Wizard P1 Meter](https://www.homewizard.
 
 * `Meterstand`: Geeft de meterstand van je Gasteller door. Onderaan staat telkens het tijdstip van de laatste meting.
 
-#### Setup
+### Setup
 
 In `assets\js\data.js` staat er een url van waar de data wordt gehaald. Verander het IP adress naar het IP adress van jouw Home Wizard meter om de applicatie te doen werken.
