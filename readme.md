@@ -16,8 +16,8 @@ Voor dit project gebruikte ik een [Home Wizard P1 Meter](https://www.homewizard.
 
 **Gas**
 
-* `Meterstand`: Geeft de meterstand van je Gasteller door. Onderaan staat telkens het tijdstip van de laatste meting.
+* `Meterstand`: Geeft de meterstand van je gasteller door. Onderaan staat telkens het tijdstip van de laatste meting.
 
 ## Setup
 
-In `assets\js\data.js` staat er een url van waar de data wordt gehaald. Verander het IP adress naar het IP adress van jouw Home Wizard meter om de applicatie te doen werken.
+In `assets\js\data.js` op regel 1 staat er `192.168.0.160` . Verander dit IP adress naar het IP adress van jouw Home Wizard meter om de applicatie te doen werken.

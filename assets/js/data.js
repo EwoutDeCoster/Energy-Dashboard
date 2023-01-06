@@ -1,6 +1,6 @@
-
+const IPADRESS = "192.168.0.160";
 function getData() {
-    fetch("http://192.168.0.160/api/v1/data")
+    fetch(`http://${IPADRESS}/api/v1/data`)
        .then(res => res.json())
        .then(data => {
            document.getElementById("verbruik").innerHTML = data.active_power_w + " W";
